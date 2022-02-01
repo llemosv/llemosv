@@ -1,4 +1,4 @@
-### Opa!👋 Me chamo Leonardo e sou um estudante/estagiário de programação! 
+### Opa!👋Seja bem vindo, me chamo Leonardo e sou um estudante/estagiário de programação! 
 
 <br>
 <div align="center">
