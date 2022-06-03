@@ -1,4 +1,4 @@
-### Opa!👋 Seja bem vindo ao meu perfil, me chamo Leonardo e sou estudante/estagiário de programação! 
+### Opa!👋 Seja bem vindo ao meu perfil! 
 
 <br>
 <div align="center">
