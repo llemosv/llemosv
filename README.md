@@ -1,4 +1,5 @@
 ### Opa!👋 Seja bem vindo ao meu perfil! 
+## Atualmente atuo como Desenvolvedor de Sistemas na Zema. 
 
 <br>
 <div align="center">
