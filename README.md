@@ -1,4 +1,4 @@
-### Seja bem vindo ao meu perfil! 
+### Welcome to my profile! 
 
 <br>
 <div align="center">
